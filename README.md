@@ -4,16 +4,6 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2324/ull-esit-inf-dsi-23-24-prct13-dsikea-api-groupo/badge.svg?branch=main)](https://coveralls.io/github/ULL-ESIT-INF-DSI-2324/ull-esit-inf-dsi-23-24-prct13-dsikea-api-groupo?branch=main)
 
-
-## Integrantes del Grupo
-
-- Adahi Oval Afonso ([alu0101242071@ull.edu.es](mailto:alu0101242071@ull.edu.es))
-
-<br>
-
-## Introducción
-El objetivo de esta práctica es el desarrollo de una API REST para la gestión de una tienda de muebles, que permite realizar operaciones **CRUD** (*Create, Read, Update, Delete*). Para ello se han desarrollado diferentes modelos y schemas, para modelar los datos de la API y diferentes rutas para las diferentes funcionalidades de la misma. Se hace uso del módulo `mongoose` para el tratamiento con la base de datos de `MongoDB`, así como del paquete `express` para las diferentes rutas y gestión de peticiones de la API. Para permitir el modelado de datos en los schema se han utilizado funcionalidades del paquete `validator` y para el desarrollo dirigido por pruebas se ha utilizado `mocha` y `chai`. También se ha implementado la integración continua mediante `Github Actions` y el control de calidad del código se ha hecho mediante el uso de `SonarCloud` y `Coveralls`.
-
 <br>
 
 ## Modelos
