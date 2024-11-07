@@ -8,8 +8,6 @@
 ## Integrantes del Grupo
 
 - Adahi Oval Afonso ([alu0101242071@ull.edu.es](mailto:alu0101242071@ull.edu.es))
-- David Ezequiel Tolosa Cabalero ([alu0101479507@ull.edu.es](mailto:alu0101479507@ull.edu.es))
-- Francisco David Hernández Alayón ([alu0101469898@ull.edu.es](mailto:alu0101469898@ull.edu.es))
 
 <br>
 
